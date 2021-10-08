@@ -1,1 +1,33 @@
-/* nothing here */
+body {
+   color: seashell;
+    background-image: url(images/anywhere-workers.gif);
+    background-repeat: no-repeat;
+    background-position: right top;
+   background-color:#0f1a26;
+    margin: 50px;
+    font-family: 'Karla', sans-serif;
+    background-image: ;
+}
+
+
+h1 {
+    font-family: 'Spectral', serif;
+    color: seashell;
+}
+
+.read-more {
+    color: red;
+    text-transform: uppercase;
+}
+
+a {
+    color: seashell;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgba(255, 0, 0, 0.616);
+    background-color: rgba(255, 38, 0, 0.507);
+    text-transform: uppercase; 
+    font-size: 15px;
+    letter-spacing: 5px;
+    
+}
